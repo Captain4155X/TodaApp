@@ -1,0 +1,19 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.heading {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-decoration: underline;
+}
+
+.borders {
+    border: 1px solid black;
+    padding: 25px;
+}
+
+.form-control {
+    border: 1px solid black;
+}
